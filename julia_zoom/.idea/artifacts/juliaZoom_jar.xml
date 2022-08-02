@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="juliaZoom:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/juliaZoom_jar</output-path>
+    <root id="archive" name="juliaZoom.jar">
+      <element id="module-output" name="juliaZoom" />
+    </root>
+  </artifact>
+</component>
